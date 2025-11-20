@@ -1,5 +1,5 @@
-googleapis.com
-google.com
-youtube.com
-chatgpt.com
-openai.com
+.googleapis.com
+.google.com
+.youtube.com
+.chatgpt.com
+.openai.com
