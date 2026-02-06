@@ -12,3 +12,4 @@ DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,capitalone.com
