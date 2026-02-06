@@ -1,3 +1,5 @@
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,google.com
@@ -5,3 +7,8 @@ DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,ping0.cc
+DOMAIN-SUFFIX,usefathom.com
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,intercomcdn.com
