@@ -17,6 +17,9 @@ DOMAIN-SUFFIX,capitalone.com
 DOMAIN-SUFFIX,admob.com
 DOMAIN-SUFFIX,mercury.com
 DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,cloud.microsoft
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,upenn.edu
